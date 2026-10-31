@@ -1,0 +1,21 @@
+# --- portfolio safety net ---
+node_modules/
+__pycache__/
+*.pyc
+.pytest_cache/
+.env
+.env.*
+!.env.example
+*.jks
+*.keystore
+local.properties
+build/
+dist/
+.gradle/
+reports/
+runs/
+output/
+test-results/
+*.log
+*.mp4
+*.apk
